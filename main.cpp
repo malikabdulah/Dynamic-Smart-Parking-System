@@ -379,4 +379,5 @@ int main()
 		delete[] slot;
 		delete[] row;
 	}
+
 }
